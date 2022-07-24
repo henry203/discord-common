@@ -1,0 +1,9 @@
+name: common-discord
+version: '1.0'
+main: me.github.henry.hook.BukkitMain
+authors: [ henry ]
+
+
+commands:
+  vincular:
+    aliases: [discord]
